@@ -5,11 +5,11 @@ A calculator made in Html, CSS and JavaScript
 
 I'll get into filling this out later, gotta stay tuned for now.
 
-Powered by [Vercel](https://vercel.com)
+### Author
 
-# Author
+Calculator © [almostJohn](https://github.com/almostJohn)<br />
+Authored and maintained by almostJohn
 
-Authored and maintained by [almostJohn](https://github.com/almostJohn)
+> [GitHub](https://github.com/almostJohn)<br />
 
-[GitHub](https://github.com/almostJohn)<br />
-[Twitter](https:twitter.com/almostJohn1)
+##### Powered by [Vercel](https://vercel.com)
