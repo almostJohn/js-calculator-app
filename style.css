@@ -18,7 +18,7 @@ a {
 }
 
 body {
-	background-color: rgb(35, 39, 42);
+	background-color: rgb(88 101 242);
 }
 
 .container {
@@ -118,6 +118,11 @@ button#equal {
 	color: #000;
 }
 
+.calculator button#backspace {
+	background-color: #ed4245;
+	color: #000;
+}
+
 .calculator button.btn_number {
 	background-color: #99aab5;
 	color: #000;
@@ -144,6 +149,11 @@ button#equal {
 }
 
 .calculator.dark button#clear {
+	background-color: #ed4245;
+	color: #fff;
+}
+
+.calculator.dark button#backspace {
 	background-color: #ed4245;
 	color: #fff;
 }
