@@ -9,7 +9,7 @@
 }
 
 body {
-	font-family: sans-serif;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 a {
@@ -25,6 +25,7 @@ body {
 	height: 100vh;
 	width: 100vh;
 	display: grid;
+	justify-content: center;
 	place-items: center;
 }
 
@@ -91,11 +92,12 @@ button {
 	border-radius: 30px;
 	margin: 5px;
 	font-size: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 	cursor: pointer;
 	transition: all 200ms ease;
 }
 
-button:hover {
+button:active {
 	transform: scale(1.1);
 }
 
