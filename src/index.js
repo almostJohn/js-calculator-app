@@ -12,7 +12,7 @@ function clearText(text) {
 }
 
 for (const item of buttons) {
-	item.addEventListener("click", (e) => {
+	item.addEventListener("click", () => {
 		try {
 			if (item.id === "clear") {
 				display.innerText = "";
@@ -35,7 +35,6 @@ for (const item of buttons) {
 
 const themeToggleButton = document.querySelector(".theme_toggler");
 const calculator = document.querySelector(".calculator");
-const toggleIcon = document.querySelector(".toggle_icon");
 
 let isDark = true;
 
